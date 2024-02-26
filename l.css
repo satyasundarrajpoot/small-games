@@ -1,0 +1,139 @@
+*
+{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    overflow-x: none;
+}
+body{
+    background: black;
+}
+.container{
+    height:100vh;
+    width: 100%;
+    text-align: center;
+}
+.box{
+    height:80%;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.s1,.t1{
+    height:300px;
+    width: 200px;
+    left: -20px;
+    border:transparent;
+}
+.s1{
+    margin-left: 100px;
+}
+.snake,.tic{
+    border-radius: 15px;
+}
+.font{
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    border-width: 0ch;
+}
+.boder
+{
+    border-radius: 30px;
+    border-style: solid;
+    border-color: violet;
+    box-shadow: 0cqh;
+    border-top-right-radius: 0ch;
+    border-bottom-left-radius: 0ch;
+    justify-content: flex;
+}
+.boder{
+    color: darkseagreen;
+}
+.boder :hover{
+    transform: scale(1.2);
+}
+.heading
+{
+ font-family: sans-serif;
+}
+.b
+{
+    text-decoration: solid;
+    text-decoration-color: darkcyan;
+}
+.h2{
+    color: whitesmoke;
+}
+.satya{
+    padding: 0cap;
+    text-align: center;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: red;
+    box-shadow: 0cqh;
+    border-top-right-radius: 0ch;
+    border-bottom-left-radius: 0ch;
+    justify-content: flex;
+}
+.parida{
+    padding: 0cap;
+    text-align: center;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: yellow;
+    box-shadow: 0cqh;
+    border-top-right-radius: 0ch;
+    border-bottom-left-radius: 0ch;
+    justify-content: flex;
+}
+.space{
+    margin-top: 20px;
+}
+.box1
+{
+    border: 30px;
+}
+.s1.font{
+    width: 450px;
+    
+}
+.box{
+    height: 80vh;
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+.font {
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    border-width: 0ch;
+    width: 450px;
+}
+.option{
+    height: 450px;
+    width: 100vw;
+    /* padding-left: 400px; */
+    /* right: 20vw;÷ */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: #0f0e0e;
+margin-bottom: 1500px;
+}
+.ct1{
+    background-color:rgba(255,255,255, 0.1);
+    height: 300px;
+    width: 600px;
+    color: #fff;
+    margin-bottom: 550px;
+    border-radius: 10px solid;
+}
+.link{
+color: #fff;
+font-style: none;
+}
